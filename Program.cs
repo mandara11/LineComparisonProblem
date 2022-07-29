@@ -6,7 +6,8 @@
         {
             Console.WriteLine("Welcome to LineComparisonProgram");
             //Length.LineLength();    //UC1
-            LineCompare.IsEqul();   //UC2
+            //LineCompare.IsEqul();   //UC2
+            TwoLineInput.TwoLineLength(); //UC3
         }
     }
 }
