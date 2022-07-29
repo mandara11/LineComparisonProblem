@@ -5,6 +5,7 @@
         public static void Main(string[] args)
         {
             Console.WriteLine("Welcome to LineComparisonProgram");
+            Length.LineLength();    //UC1
         }
     }
 }
